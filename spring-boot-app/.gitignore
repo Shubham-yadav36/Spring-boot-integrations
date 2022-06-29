@@ -4,9 +4,6 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-// configuration file
-**/src/main/resources/**
-
 ### STS ###
 .apt_generated
 .classpath
